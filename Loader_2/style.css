@@ -5,7 +5,7 @@
 }
 
 :root {
-  --loading: loading infinite 10s linear;
+  --loading: loading infinite 10s;
 }
 
 body {
